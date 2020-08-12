@@ -1,1 +1,2 @@
-# SimpleNotepad입니다.
+# SimpleNotepad
+
